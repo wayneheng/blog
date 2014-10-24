@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Test!"
+date:   2014-10-24 14:35:46
+categories: Test
+---
+
+test test
+
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+
